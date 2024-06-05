@@ -1,3 +1,4 @@
+'''
 Monte Carlo Option pricing for European options with stochastic volatility
 Simulations use standard Euler discretization.
 Price of the underlying asset follows Geometric Brownian Motion
