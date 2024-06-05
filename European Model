@@ -1,4 +1,4 @@
-
+''' 
 Monte Carlo simulations for European option pricing
 Pricing algorithms include:
     - Simple
@@ -6,7 +6,7 @@ Pricing algorithms include:
     - Delta-based Control Variate only
     - Delta- and Gamma-based Control Variates
     - Delta-based Control Variates and Antithetic Variates
-"""
+'''
 
 import numpy as np
 import scipy.stats as si
